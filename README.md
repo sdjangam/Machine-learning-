@@ -1,2 +1,2 @@
 # Machine-learning-
-Data science for machine learning 
+ machine learning 
