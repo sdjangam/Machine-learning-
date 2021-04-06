@@ -9,6 +9,11 @@ Machine Learning is a first-class ticket to the most exciting careers in data sc
 In this module, broadly I will talk about supervised as well as unsupervised learning. We will talk about multiple types of classifiers like Naïve Bayes, KNN, decision trees, SVMs, artificial neural networks, logistic regression, and ensemble learning. Further, we will also talk about linear regression analysis, sequence labeling using HMMs. As part of unsupervised learning, I will discuss clustering as well as dimensionality reduction. Finally, we will also discuss briefly semi-supervised learning, multi-task learning, architecting ML solutions, and a few ML case studies.
 
 
+![image](https://user-images.githubusercontent.com/67232573/113742925-f5166800-96b7-11eb-9d98-c09c010752f0.png)
+
+
+
+
 # Introduction to Machine Learning
 Introduction to machine learning
 
@@ -19,6 +24,11 @@ Types of data sets
 Data() in R
 
 Introduction to classification
+
+
+![image](https://user-images.githubusercontent.com/67232573/113742996-052e4780-96b8-11eb-96be-7d37c52889c0.png)
+
+
 
 
 # Decision Trees
@@ -42,6 +52,12 @@ Pruning
 Metrics for performance Evaluation
 
 Iris Decision Tree Example
+
+
+
+![image](https://user-images.githubusercontent.com/67232573/113743225-46265c00-96b8-11eb-8da9-d86ae28e4c8d.png)
+
+
 
 
 # K Nearest Neighbors (KNN)
@@ -69,6 +85,11 @@ KNN using sklearn
 Digits classification using KNN in Python
 
 
+![image](https://user-images.githubusercontent.com/67232573/113743348-6f46ec80-96b8-11eb-870c-8d9a169cb212.png)
+
+
+
+
 # Naïve Bayes
 
 Examples of few text classification problems
@@ -92,6 +113,13 @@ Gaussian Naïve Bayes from scratch in Python
 Naïve Bayes using sklearn
 
 Multinomial Naïve Bayes
+
+
+![image](https://user-images.githubusercontent.com/67232573/113743511-9c939a80-96b8-11eb-87de-934b8a4a97c5.png)
+
+
+![image](https://user-images.githubusercontent.com/67232573/113743593-b1702e00-96b8-11eb-8394-d7defc1dea39.png)
+
 
 
 # SVMs
@@ -119,6 +147,15 @@ Linear SVM using Python
 SVM with RBF kernel with Python
 
 Learning SVM with noise data in Python
+
+
+
+![image](https://user-images.githubusercontent.com/67232573/113743678-c9e04880-96b8-11eb-9ab1-099cc4212a51.png)
+
+
+![image](https://user-images.githubusercontent.com/67232573/113743698-d06ec000-96b8-11eb-917b-7c60adf11672.png)
+
+
 
 
 # Ensemble Learning
@@ -160,6 +197,11 @@ XGBoost in Python
 Parameter tuning for GBM’s
 
 Voting classifier using skLearn
+
+
+![image](https://user-images.githubusercontent.com/67232573/113743832-f3996f80-96b8-11eb-9341-83c0a629516e.png)
+
+
 
 
 # Artificial Neural Networks
@@ -227,6 +269,7 @@ Python Code: Fashion Multi-class classification using MLP in Keras
 
 
 
+
 # Linear Regression
 
 Introduction to Linear regression
@@ -264,6 +307,9 @@ Python code: Multiple Linear Regression using sklearn
 Python code: Ridge and Lasso Regression
 
 
+![image](https://user-images.githubusercontent.com/67232573/113744291-74586b80-96b9-11eb-8fe4-c4dd5c9fb4e0.png)
+
+
 
 
 # Logistic Regression
@@ -287,6 +333,14 @@ Python Code: Logistic regression on the titanic dataset- Part 3
 Python Code: Logistic regression on the titanic dataset- Part 4
 
 Python Code: Visualizing a logistic regression model
+
+
+![image](https://user-images.githubusercontent.com/67232573/113744470-98b44800-96b9-11eb-9671-20962ef5b6d0.png)
+
+
+
+![image](https://user-images.githubusercontent.com/67232573/113744512-a073ec80-96b9-11eb-9384-eec3b65e9fa3.png)
+
 
 
 
@@ -319,6 +373,14 @@ Python Code: Recursive Feature Elimination — wrapper
 Python Code: Choosing important features (feature importance)
 
 Python Code: Feature Selection using Variance Threshold
+
+
+![image](https://user-images.githubusercontent.com/67232573/113744687-c6998c80-96b9-11eb-8a8d-13940bbbb5f0.png)
+
+
+![image](https://user-images.githubusercontent.com/67232573/113744728-d1ecb800-96b9-11eb-9dde-7f04ef2354c0.png)
+
+
 
 
 # Sequence Labeling
@@ -415,6 +477,10 @@ Ensemble Methods for Clustering: Finding Corresponding Clusters
 Ensemble Methods for Clustering: Combining Corresponding Clusters
 
 
+![image](https://user-images.githubusercontent.com/67232573/113744951-0496b080-96ba-11eb-98e7-4fad6bf9b4e4.png)
+
+
+
 # Dimensionality Reduction using PCA and LDA
 
 Why PCA?
@@ -462,6 +528,12 @@ Python Code: LDA from Scikit Learn on Iris dataset
 Python Code: LDA on Iris dataset from scratch
 
 
+
+![image](https://user-images.githubusercontent.com/67232573/113745240-242dd900-96ba-11eb-8095-ef352ab5a4e7.png)
+
+
+
+
 # Architecting ML solutions
 
 Machine Learning Process
@@ -471,6 +543,11 @@ Qualities of a Classifier
 Technical Practical Issues in ML
 
 Non-Technical Practical Issues in ML
+
+
+![image](https://user-images.githubusercontent.com/67232573/113745609-47588880-96ba-11eb-8a38-46df5a215e83.png)
+
+
 
 # ML case studies
 
@@ -513,3 +590,8 @@ Machine Learning for Project Management
 Machine Learning for Fashion Industry
 
 Other use-cases of Machine Learning
+
+
+![image](https://user-images.githubusercontent.com/67232573/113745874-8dade780-96ba-11eb-83a7-d6f358257ffc.png)
+
+
