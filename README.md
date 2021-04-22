@@ -68,7 +68,7 @@ Decision boundary KNN Vs Decision tree
 
 What is the best K
 
-KNN Problems
+KNN Problem
 
 Feature selection using KNNs
 
