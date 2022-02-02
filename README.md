@@ -17,7 +17,7 @@ In this module, broadly I will talk about supervised as well as unsupervised lea
 # Introduction to Machine Learning
 Introduction to machine learning
 
-Supervised, semisupervised, unsupervised machine learning
+Supervised, semisupervised, unsupervised machine learnings
 
 Types of data sets
 
