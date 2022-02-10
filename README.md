@@ -2,7 +2,7 @@
 
 # machine learning
 
-Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome.
+Machine learning is a the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome.
 
 Machine Learning is a first-classs ticket to the most exciting careers in data science. As data sources proliferate along with the computing power to process them, automated predictions have become much more accurate and dependable. Machine learning brings together computer science and statistics to harness that predictive power. It’s a must-have skill for all aspiring data analysts and data scientists, or anyone else who wants to wrestle all that raw data into refined trends and predictions.
 
