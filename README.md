@@ -15,7 +15,7 @@ In this module, broadly I will talk about supervised as well as unsupervised lea
 
 
 # Introduction to Machine Learning
-Introduction to machine learning
+Introduction to machine learnings
 
 Supervised, semisupervised, unsupervised machine learnings
 
