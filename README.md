@@ -1,6 +1,6 @@
 # Machine-learning-
 
-# machine learning
+# machine learnings
 
 Machine learning is a the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome.
 
